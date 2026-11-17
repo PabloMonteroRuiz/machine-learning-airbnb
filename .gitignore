@@ -224,3 +224,6 @@ __marimo__/
 
 data/*
 !data/.gitkeep
+*.csv
+*.csv.gz
+*.parquet
