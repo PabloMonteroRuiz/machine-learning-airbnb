@@ -3,7 +3,7 @@
 ## Authors
 
 - Pablo Montero Ruiz – pablo.montero@cunef.edu
-- José Miguel Serrano – EMAIL_CHEMI@cunef.edu
+- José Miguel Serrano – josemiguel.serrano@cunef.edu
 
 ## Repository
 
